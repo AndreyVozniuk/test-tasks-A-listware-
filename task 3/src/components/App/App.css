@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  background-color: snow;
+}
+
+.listOfFoldersAndFiles {
+  width: 30%;
+}
+
+.listOfFoldersAndFiles h2 {
+  margin-left: 10px;
+}
+
